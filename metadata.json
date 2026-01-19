@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Ahmed Osman Museum Portfolio",
+  "description": "A sophisticated digital museum experience showcasing the works of Ahmed Osman, featuring interactive sculpture visualizations and AI-powered narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
